@@ -14,10 +14,13 @@ All models work on the basis of the **Neural Network** which is basically the th
 
 **Key Aspects must be known before learning the Generative AI or Models of the AI**
 **1)Tokens** -- The smallest unit of the text the model processes,like words or parts of words.
+
 **2)Context **-- The surrounding text or information the model uses to understand and generate relevant responses.
+
 **3)Context Window** -- The maximum number of tokens an LLM can read and use at the same time to generate or predict text. 
 for example: GPT 3 : 2048 Tokens allowed
              GPT 4.1 : 10,47,576 Tokens allowed
+
 **4)Inference** -- The process where an LLM takes input text and generates an output based on what it has learned.            
 
 **Prompt Engineering**
