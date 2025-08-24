@@ -7,7 +7,9 @@ Generative AI is an artificial intelligence which can generate the text,image,vi
 
 **AI Models**
 There are two type of models:
+
 **1)GPT Models** -- Which are fast and also don't take time to generate.Gives instatnt output.
+
 **2)Reasoning models** -- which are specially made for thinking capabilities,in which the model will think for some seconds and generate the output based on the prompt that are given.
 
 All models work on the basis of the **Neural Network** which is basically the thinking brain of the models, On basis of these Neural Networks weights of information the models are been parameterized like 7b(billion).
